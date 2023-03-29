@@ -1,0 +1,30 @@
+button {
+   box-shadow: 0px 1px 0px 1px #9fa89c;
+	border-radius:3px;
+	border:0.5px solid #ffffff00;
+	color:#ffffff;
+	font-size:14px;
+	padding:15px 30px;
+	height: 80%;
+	width: 75%;
+	line-height: 15%;
+	font-weight: bold;
+
+}
+
+.arrivedColor {
+	color: #1bb977;
+	background-color: transparent;
+	border:1px solid #1bb977;
+}
+.callColor {
+	color:#f8f1f1;
+	background-color: #1bb977;
+	
+}
+
+.waitingColor {
+	color:#f8f1f1;
+    background-color: red;
+	border:1px solid red;
+}

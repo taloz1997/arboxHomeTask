@@ -1,0 +1,23 @@
+img {
+    width: 40%;
+ }
+ 
+.Red {
+    filter:
+    invert(40%)
+    sepia(100%)
+    saturate(100%)
+    hue-rotate(90deg)
+    brightness(73%);
+}
+
+.Green {
+    filter:
+    invert(40%)
+    sepia(100%)
+    saturate(250%)
+    hue-rotate(90deg)
+    brightness(85%);
+}
+ 
+
